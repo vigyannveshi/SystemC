@@ -1,1 +1,3 @@
 .vscode
+clear_executables.py
+/test_examples/*
